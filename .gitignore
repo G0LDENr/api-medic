@@ -1,0 +1,10 @@
+# Archivos de entorno (¡IMPORTANTE!)
+.env
+.env.local
+.env.*.local
+
+# Entorno virtual
+Virtual1/
+venv/
+env/
+.venv/
