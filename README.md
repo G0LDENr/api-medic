@@ -1,6 +1,6 @@
 # Clonar el repositorio
 
-### `git clone https://github.com/tu-usuario/tu-repo.git](https://github.com/G0LDENr/api-medic.git`
+### `git clone https://github.com/G0LDENr/api-medic.git`
 ### `cd tu-repo`
 
 ## Crear y activar entorno virtual
